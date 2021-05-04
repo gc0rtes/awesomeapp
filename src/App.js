@@ -55,7 +55,7 @@ function App() {
     // inside 'return': HTML code
 
     <main className="container">
-      <Title content="My APP" />
+      <Title content="MY POKE APP MON" />
       <div className="row">
         {pokemon_Data.map((pokemon, index) => (
           <div key={index} className="col-md-6 col-lg-4">
